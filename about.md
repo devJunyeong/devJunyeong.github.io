@@ -6,7 +6,7 @@ permalink: /about/
 
 한국의 소프트웨어 엔지니어
 
-### More Information
+### Interest
 
 iOS, Android, Web, Design, Game, Security, Swift, Xcode, Rxswfit, Kotlin, Java, Objective-C, C/C++, IntelliJ
 
