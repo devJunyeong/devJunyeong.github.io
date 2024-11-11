@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+한국의 소프트웨어 엔지니어
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+iOS, Android, Web, Design, Game, Security, Swift, Xcode, Rxswfit, Kotlin, Java, Objective-C, C/C++, IntelliJ
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[junyeonghwang54@gmail.com](mailto:email@domain.com)
