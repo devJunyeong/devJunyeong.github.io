@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Interest
 
-iOS, Android, Web, Design, Game, Security, Swift, Xcode, Rxswfit, Kotlin, Java, Objective-C, C/C++, IntelliJ
+iOS, Android, Web, Design, Game, Security, Swift, Xcode, Rxswift, Kotlin, Java, Objective-C, C/C++, IntelliJ, Jetpack, Android Studio
 
 ### Contact me
 
