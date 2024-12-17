@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Software Engineer in Seoul, South Korea.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+iOS, Swift, Rxswift, Objective-C, Xcode, C/C++, Android, Kotlin, Java, Web, Game, Design ...
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[junyeonghwang54@gmail.com](mailto:junyeonghwang54@gmail.com)
